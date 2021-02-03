@@ -1,14 +1,12 @@
-## Getting Started
+## Estructuras Secuenciales
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+En este repositorio se encuentran resueltos ejercicios de estructuras secuenciales en java.
 
-## Folder Structure
+## Leeciones Aprendidas
 
-The workspace contains two folders by default, where:
+En este modulo se aprendio a estrucuturar un programa en java. La estructura del progama es el siguiente:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-## Dependency Management
-
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
+- `Seeccion de variables`: En esta seccion se declaran las variables a utilizar en el programa.
+- `Seccion de datos`: En esta seccion se ingresan los datos de entrada.
+- `Seccion de proceso`: En esta seccion se realiza el proceso o logica del programa. 
+- `Seccion de reporte o salida`: En esta seccion se realiza un reporte y/o se imprime en pantalla.
