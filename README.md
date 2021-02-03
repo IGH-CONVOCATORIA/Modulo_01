@@ -2,7 +2,7 @@
 
 En este repositorio se encuentran resueltos ejercicios de estructuras secuenciales en java.
 
-## Leeciones Aprendidas
+## Lecciones Aprendidas
 
 En este modulo se aprendio a estrucuturar un programa en java. La estructura del progama es el siguiente:
 
